@@ -1,1 +1,3 @@
 # Project_Shazam
+
+Music-informatics project which aim to replicate the functionality of Shazam, the popular music identification application. The project involved extracting distinctive features from a database of audio files, creating unique fingerprints for each track. These fingerprints were then compared with those extracted from sample audio snippets, allowing for the identification of the original audio files associated with the given samples. The project aimed to implement an efficient and accurate audio recognition system inspired by the principles used in Shazam.
